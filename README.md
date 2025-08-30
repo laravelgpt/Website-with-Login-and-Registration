@@ -26,4 +26,10 @@ This project is a simple website with a login and registration system. It is bui
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/64475b3b-750e-42ef-9791-acb85ce3e371" />
 
 
+<img width="1918" height="954" alt="image" src="https://github.com/user-attachments/assets/4ad438ae-1cc2-4f85-88ad-1ed04b5d8f4f" />
+
+<img width="1918" height="953" alt="image" src="https://github.com/user-attachments/assets/b4674c85-6a9a-457a-95a8-57ccd750c221" />
+
+
+
 
