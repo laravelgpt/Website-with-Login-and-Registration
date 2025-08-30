@@ -18,3 +18,12 @@ This project is a simple website with a login and registration system. It is bui
 
 1.  Clone the repository.
 2.  Open the `index.html` file in your browser.
+
+## Screenshot
+
+![Screenshot]<img width="1920" height="960" alt="image" src="https://github.com/user-attachments/assets/c846bc3d-0a1b-42db-b462-70f5cde589d8" />
+
+<img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/64475b3b-750e-42ef-9791-acb85ce3e371" />
+
+
+
