@@ -20,12 +20,15 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Dependencies
+# Dependency directories
 node_modules/
+bower_components/
 
-# Build outputs
-dist/
-build/
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
 
 # Environment variables
 .env
@@ -34,11 +37,10 @@ build/
 .env.test.local
 .env.production.local
 
-# Cache files
-.cache/
+# Build outputs
+dist/
+build/
+
+# Temporary files
 *.tmp
 *.temp
-
-# Backup files
-*.bak
-*.backup
